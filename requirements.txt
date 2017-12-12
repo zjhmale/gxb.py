@@ -1,1 +1,6 @@
 requests
+### https://stackoverflow.com/questions/29099404/ssl-insecureplatform-error-when-using-requests-package ###
+pyOpenSSL
+ndg-httpsclient
+pyasn1
+######
