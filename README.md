@@ -1,10 +1,14 @@
-# GXB Python SDK
+# gxbthon SDK
 
 [![Build Status](https://travis-ci.org/zjhmale/gxb.py.svg?branch=master)](https://travis-ci.org/zjhmale/gxb.py)
+[![PyPI](https://img.shields.io/pypi/v/gxb.svg)](https://pypi.python.org/pypi/gxb)
+[![PyPI](https://img.shields.io/pypi/l/gxb.svg)](https://pypi.python.org/pypi/gxb)
+[![PyPI](https://img.shields.io/pypi/pyversions/gxb.svg)](https://pypi.python.org/pypi/gxb)
+[![PyPI](https://img.shields.io/pypi/wheel/gxb.svg)](https://pypi.python.org/pypi/gxb)
 
 ## Installation
 ```bash
-pip install gxb.py
+pip install gxb
 ```
 
 ## Example

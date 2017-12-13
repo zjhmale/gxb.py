@@ -2,10 +2,10 @@
 from setuptools import setup
 
 setup(
-    name='gxb.py',
+    name='gxb',
     version='0.1.0',
     packages=['gxb'],
-    description='GXB API Wrapper',
+    description='GXB Python SDK',
     url='https://github.com/zjhmale/gxb.py',
     author='zjhmale',
     license='MIT',
@@ -19,7 +19,6 @@ setup(
           'Programming Language :: Python :: 2',
           'Programming Language :: Python :: 2.7',
           'Programming Language :: Python :: 3',
-          'Programming Language :: Python :: 3.3',
           'Programming Language :: Python :: 3.4',
           'Programming Language :: Python :: 3.5',
           'Programming Language :: Python :: 3.6',
