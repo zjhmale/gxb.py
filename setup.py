@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name='gxb',
     version='0.1.0',
-    packages=['gxb'],
+    packages=['gxb', 'gxb.api'],
     description='GXB Python SDK',
     url='https://github.com/zjhmale/gxb.py',
     author='zjhmale',
